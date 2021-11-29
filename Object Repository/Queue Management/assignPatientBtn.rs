@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>assignPatientBtn</name>
+   <tag></tag>
+   <elementGuidId>dfec0170-c91e-4f1d-8291-00e75232637e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tbody/tr['${index}']/td[6]/form[1]/a[contains(@data-original-title,&quot;Assign&quot;)]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody/tr['${index}']/td[6]/form[1]/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tbody/tr['${index}']/td[6]/form[1]/a[contains(@data-original-title,&quot;Assign&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>
