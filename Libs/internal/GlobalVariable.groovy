@@ -14,14 +14,20 @@ public class GlobalVariable {
      */
     public static Object cxURL
      
+    /**
+     * <p></p>
+     */
+    public static Object suriaURL
+     
 
     static {
         try {
             def selectedVariables = TestCaseMain.getGlobalVariables("default")
 			selectedVariables += TestCaseMain.getGlobalVariables(RunConfiguration.getExecutionProfile())
-            selectedVariables += TestCaseMain.getParsedValues(RunConfiguration.getOverridingParameters())
+            selectedVariables += TestCaseMain.getParsedValues(RunConfiguration.getOverridingParameters(), selectedVariables)
     
             cxURL = selectedVariables['cxURL']
+            suriaURL = selectedVariables['suriaURL']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)

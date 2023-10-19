@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>doctorRoomAssignedRoom</name>
+   <tag></tag>
+   <elementGuidId>965841b2-ccff-4bf2-aea8-73cf9ff147df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/form[1]/div[1]/table[1]/tbody[1]/tr[4]/td/select/option[contains(text(),'${ROOM}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/form[1]/div[1]/table[1]/tbody[1]/tr[4]/td/select/option[contains(text(),'${ROOM}')]</value>
+   </webElementProperties>
+</WebElementEntity>

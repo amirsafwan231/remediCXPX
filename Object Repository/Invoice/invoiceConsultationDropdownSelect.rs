@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>invoiceConsultationDropdownSelect</name>
+   <tag></tag>
+   <elementGuidId>8420536e-a466-431b-b47a-dfc9c060bb15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/div[@id='app']/div[2]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/div[2]/div[2]/div[2]/div[1]/select[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/div[@id='app']/div[2]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/div[2]/div[2]/div[2]/div[1]/select[1]</value>
+   </webElementProperties>
+</WebElementEntity>

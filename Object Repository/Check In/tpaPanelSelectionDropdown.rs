@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tpaPanelSelectionDropdown</name>
+   <tag></tag>
+   <elementGuidId>b3f350a3-1e13-4e92-963e-10b6b3fe41bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/form[1]/div[1]/table[1]/tbody[1]/tr[5]/td[2]/span[1]/span[1]/span[1]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/form[1]/div[1]/table[1]/tbody[1]/tr[5]/td[2]/span[1]/span[1]/span[1]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>

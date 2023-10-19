@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>invoiceDisposableDropdownOption</name>
+   <tag></tag>
+   <elementGuidId>61289b00-cb37-48cb-9e7a-a6a041432ec8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/div[2]/div[5]/div[2]/div[1]/div[1]/div[1]/div[2]/select[1]/option[contains(text(),'Bandage')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/div[2]/div[5]/div[2]/div[1]/div[1]/div[1]/div[2]/select[1]/option[contains(text(),'Bandage')]</value>
+   </webElementProperties>
+</WebElementEntity>

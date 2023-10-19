@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>appointmentDetailPatientPhoneNo</name>
+   <tag></tag>
+   <elementGuidId>a6453ff9-020c-4077-9b0d-d40d20086bf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tbody/tr[2]/td[2]/span[contains(text(),'${Phone}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tbody/tr[2]/td[2]/span[contains(text(),'${Phone}')]</value>
+   </webElementProperties>
+</WebElementEntity>

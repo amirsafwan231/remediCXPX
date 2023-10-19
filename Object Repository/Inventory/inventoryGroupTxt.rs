@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inventoryGroupTxt</name>
+   <tag></tag>
+   <elementGuidId>b7c5112e-41df-4228-a6b7-7560a14361e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//strong[contains(text(),'BANDAGE')]//parent::td//following-sibling::td//child::label[contains(text(),'DISPOSABLES')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//strong[contains(text(),'BANDAGE')]//parent::td//following-sibling::td//child::label[contains(text(),'DISPOSABLES')]</value>
+   </webElementProperties>
+</WebElementEntity>

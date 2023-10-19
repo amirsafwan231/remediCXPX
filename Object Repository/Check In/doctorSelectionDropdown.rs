@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>doctorSelectionDropdown</name>
+   <tag></tag>
+   <elementGuidId>cfddf5a6-e542-4371-8199-2b543ddc8c98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/form[1]/div[1]/table[1]/tbody[1]/tr[3]/td[2]/span[1]/span[1]/span[1]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/form[1]/div[1]/table[1]/tbody[1]/tr[3]/td[2]/span[1]/span[1]/span[1]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>
