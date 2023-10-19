@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>assignDoctorSelectedDoctorName</name>
+   <tag></tag>
+   <elementGuidId>c2349e34-9998-4b54-8510-d60ac8717c90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body[1]/span[1]/span[1]/span[2]/ul[1]/li[contains(text(),'${DRNAME}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body[1]/span[1]/span[1]/span[2]/ul[1]/li[contains(text(),'${DRNAME}')]</value>
+   </webElementProperties>
+</WebElementEntity>

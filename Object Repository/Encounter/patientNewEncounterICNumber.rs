@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>patientNewEncounterICNumber</name>
+   <tag></tag>
+   <elementGuidId>40dd836c-157c-49b2-b222-43fe4934695d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/div[@id='app']/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/h5[contains(text(),'930922087711')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/div[@id='app']/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/h5[contains(text(),'930922087711')]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>patientNewEncounterEncounterTab</name>
+   <tag></tag>
+   <elementGuidId>db4f5c1c-5f26-4070-9f00-dfc6d014f1fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/div[@id='app']/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[3]/ul[1]//descendant::a[contains(text(),'Encounter')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/div[@id='app']/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[3]/ul[1]//descendant::a[contains(text(),'Encounter')]</value>
+   </webElementProperties>
+</WebElementEntity>

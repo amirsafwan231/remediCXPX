@@ -3,7 +3,7 @@
    <description></description>
    <name>checkInBtn</name>
    <tag></tag>
-   <elementGuidId>28e2bb6f-8065-4b3f-afe7-f31d17af7bdd</elementGuidId>
+   <elementGuidId>ec4cdec8-4d0c-474c-91bf-3e1f6f105c4c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>appointmentDetailPatientNameTxt</name>
+   <tag></tag>
+   <elementGuidId>319fd1b7-32d2-4ba0-a907-41c7935f58cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h3[contains(text(),'${PatientName}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3[contains(text(),'${PatientName}')]</value>
+   </webElementProperties>
+</WebElementEntity>

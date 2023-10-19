@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>detailsPatientPhoneNumber</name>
+   <tag></tag>
+   <elementGuidId>727f1bed-9fef-4037-9c9b-0ae8c1b6fae1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tbody/tr[2]/td[1]/input[@value='01239123213']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tbody/tr[2]/td[1]/input[@value='01239123213']</value>
+   </webElementProperties>
+</WebElementEntity>

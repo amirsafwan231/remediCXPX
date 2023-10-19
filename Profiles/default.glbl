@@ -9,4 +9,9 @@
       <initValue>'https://cx-merge-mb.remedi.my/login'</initValue>
       <name>cxURL</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://clinic-training.suriahealthsystem.com.my/login'</initValue>
+      <name>suriaURL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
